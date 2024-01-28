@@ -27,10 +27,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='(https://www.veed.io/view/bf900495-4255-4796-93c1-a588da1b95fe?panel=share)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[(https://www.veed.io/view/bf900495-4255-4796-93c1-a588da1b95fe?panel=share)](https://github.com/CalvertB/Project-1-Community-Board/blob/main/project.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Veed.Io -->
-GIF created with ...  
+GIF created with ScreenToGif 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -39,7 +39,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-Some of the styling in CSS
+- Some of the styling in CSS
 
 ## License
 
