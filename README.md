@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[(https://www.veed.io/view/bf900495-4255-4796-93c1-a588da1b95fe?panel=share)](https://github.com/CalvertB/Project-1-Community-Board/blob/main/project.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/CalvertB/Project-1-Community-Board/blob/main/project.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Veed.Io -->
 GIF created with ScreenToGif 
